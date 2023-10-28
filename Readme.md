@@ -66,7 +66,7 @@
 
 Запуск docker-контейнера:
 
-```docker run -p [ваш хост]:[порт контейнера] -e HOST=[ваш хост] -e PORT=[ваш порт] classifier-api```
+```docker run -p [ваш хост]:[порт контейнера] -e HOST=[ваш хост] -e PORT=[ваш порт] stilusoff/classifier-api```
 
 Параметры запроса: image, archive
 
