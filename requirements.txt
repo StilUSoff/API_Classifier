@@ -1,0 +1,14 @@
+numpy
+Pillow
+scikit-learn
+torch
+torchvision
+tqdm
+argparse
+opencv-python
+pydicom
+datetime
+pandas
+tensorboard
+flask
+patool
